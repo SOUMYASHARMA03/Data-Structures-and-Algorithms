@@ -83,4 +83,8 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
