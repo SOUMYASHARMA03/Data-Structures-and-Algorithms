@@ -86,5 +86,14 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
