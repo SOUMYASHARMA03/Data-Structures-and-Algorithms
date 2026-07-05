@@ -83,6 +83,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +97,12 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
