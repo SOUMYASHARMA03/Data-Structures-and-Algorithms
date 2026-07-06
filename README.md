@@ -74,6 +74,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
@@ -104,8 +105,13 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
