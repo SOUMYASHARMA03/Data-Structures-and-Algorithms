@@ -91,6 +91,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 ## Linked List
