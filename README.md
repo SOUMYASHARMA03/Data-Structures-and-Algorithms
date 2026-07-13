@@ -98,10 +98,12 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
