@@ -76,12 +76,14 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0001-two-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
