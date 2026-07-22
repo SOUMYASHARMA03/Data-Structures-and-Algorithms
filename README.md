@@ -77,6 +77,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
@@ -156,4 +157,8 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
