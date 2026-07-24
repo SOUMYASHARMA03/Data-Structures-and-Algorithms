@@ -148,6 +148,7 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -156,9 +157,18 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
