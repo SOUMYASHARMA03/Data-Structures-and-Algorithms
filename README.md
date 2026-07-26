@@ -102,6 +102,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0007-reverse-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,4 +174,12 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
