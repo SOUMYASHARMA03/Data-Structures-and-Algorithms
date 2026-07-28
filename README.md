@@ -78,6 +78,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
@@ -102,6 +103,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0007-reverse-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 ## Linked List
 |  |
