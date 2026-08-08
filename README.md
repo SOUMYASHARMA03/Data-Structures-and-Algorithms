@@ -81,6 +81,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0035-search-insert-position](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -190,6 +191,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
