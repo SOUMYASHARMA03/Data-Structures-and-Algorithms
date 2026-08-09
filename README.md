@@ -161,6 +161,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -171,6 +172,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0099-recover-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,4 +203,5 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
