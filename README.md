@@ -94,6 +94,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,11 +120,13 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -189,6 +192,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0020-valid-parentheses](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 ## Depth-First Search
 |  |
 | ------- |
