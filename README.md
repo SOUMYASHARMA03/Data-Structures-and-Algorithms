@@ -96,6 +96,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0125-valid-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
