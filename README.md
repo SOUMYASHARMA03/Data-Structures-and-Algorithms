@@ -90,6 +90,7 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
@@ -137,6 +138,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
@@ -240,4 +242,12 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0039-combination-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
