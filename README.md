@@ -85,6 +85,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -218,6 +219,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
