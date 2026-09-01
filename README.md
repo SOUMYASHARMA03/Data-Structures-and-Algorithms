@@ -44,8 +44,6 @@ This repository contains my Java solutions to coding interview problems and algo
 ## 🏆 Platforms
 
 - LeetCode
-- GeeksforGeeks
-- HackerRank
 
 ---
 
