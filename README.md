@@ -86,6 +86,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -109,6 +110,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -164,10 +166,12 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 ## String Matching
 |  |
@@ -239,6 +243,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -252,4 +257,8 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
