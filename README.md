@@ -81,6 +81,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0040-combination-sum-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
