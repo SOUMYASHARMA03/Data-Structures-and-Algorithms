@@ -87,6 +87,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -112,6 +113,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
