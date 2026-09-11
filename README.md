@@ -124,6 +124,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0043-multiply-strings](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +154,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0058-length-of-last-word](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
