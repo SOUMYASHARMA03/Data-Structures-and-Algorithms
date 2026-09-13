@@ -122,6 +122,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0007-reverse-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
@@ -233,6 +234,7 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
