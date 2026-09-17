@@ -81,6 +81,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0039-combination-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -177,6 +178,7 @@ This repository contains my Java solutions to coding interview problems and algo
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
@@ -267,6 +269,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0039-combination-sum](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
