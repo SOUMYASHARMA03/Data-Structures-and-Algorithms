@@ -90,6 +90,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0137-single-number-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -117,6 +118,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +230,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0020-valid-parentheses](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,4 +286,8 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
