@@ -116,6 +116,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -161,6 +162,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0409-longest-palindrome) |
 ## Sliding Window
