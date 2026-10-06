@@ -138,6 +138,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -148,6 +149,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0143-reorder-list) |
 ## String
 |  |
