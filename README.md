@@ -131,6 +131,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0043-multiply-strings](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 ## Linked List
 |  |
@@ -233,6 +234,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0033-search-in-rotated-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
@@ -300,4 +302,8 @@ This repository contains my Java solutions to coding interview problems and algo
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
