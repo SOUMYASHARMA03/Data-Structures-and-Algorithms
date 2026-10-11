@@ -166,6 +166,7 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0058-length-of-last-word](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
@@ -285,11 +286,13 @@ This repository contains my Java solutions to coding interview problems and algo
 | [0040-combination-sum-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
+| [0131-palindrome-partitioning](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/SOUMYASHARMA03/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
 | ------- |
